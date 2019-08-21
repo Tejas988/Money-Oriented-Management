@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SEM</string>
+    <string name="close">Close</string>
+    <string name="title_activity_new_account">NewAccount</string>
+    <string name="action_settings">Settings</string>
+</resources>

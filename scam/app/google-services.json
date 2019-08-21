@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445485471784",
+    "firebase_url": "https://studentlogin2-2ef06.firebaseio.com",
+    "project_id": "studentlogin2-2ef06",
+    "storage_bucket": "studentlogin2-2ef06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445485471784:android:73384da54e722c41",
+        "android_client_info": {
+          "package_name": "com.example.scam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445485471784-usfeeoi5oangnio0lnbvqgjont33gth5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGS5VJWfU5AttEbj3uoj42fWhw4j4OYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445485471784-usfeeoi5oangnio0lnbvqgjont33gth5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
